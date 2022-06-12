@@ -1,3 +1,3 @@
 "use strict";
 
-alert('What is up???');
+console.log('What is up???');
